@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.2.4">
   <diagram name="Page-1" id="2a216829-ef6e-dabb-86c1-c78162f3ba2b">
-    <mxGraphModel dx="3666" dy="2606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1509" dy="1720" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -915,7 +915,7 @@
         <mxCell id="_2EZ7THMiR9m6lI002ey-5" value="" style="fontSize=12;html=1;endArrow=ERzeroToMany;startArrow=ERmandOne;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="stontRHDnFcF5iVTPhwj-18" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="1250" y="540" as="sourcePoint" />
-            <mxPoint x="1770" y="480" as="targetPoint" />
+            <mxPoint x="1680" y="480" as="targetPoint" />
             <Array as="points">
               <mxPoint x="780" y="480" />
             </Array>
@@ -1272,10 +1272,15 @@
             <mxPoint x="570" y="-864.47" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CUQYdAmPZnKUTS0YLWoH-15" value="" style="fontSize=12;html=1;endArrow=ERmandOne;startArrow=ERmandOne;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="stontRHDnFcF5iVTPhwj-83" target="bew7H7eXBtvLtZtFgnXy-2">
+        <mxCell id="CUQYdAmPZnKUTS0YLWoH-30" value="" style="fontSize=12;html=1;endArrow=ERzeroToMany;startArrow=ERmandOne;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="bew7H7eXBtvLtZtFgnXy-2" target="stontRHDnFcF5iVTPhwj-83">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="1130" y="1160" as="sourcePoint" />
-            <mxPoint x="1230" y="1060" as="targetPoint" />
+            <mxPoint x="1130" y="1130" as="sourcePoint" />
+            <mxPoint x="1200" y="1120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CUQYdAmPZnKUTS0YLWoH-32" value="odber_mnozstvo" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="2000" y="550" width="160" height="30" as="geometry">
+            <mxRectangle width="160" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
       </root>
